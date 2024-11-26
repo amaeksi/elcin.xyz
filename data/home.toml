@@ -23,7 +23,7 @@
   enabled = true
   weight  = 6
 
-[[section]]
-  id      = "testimonials"
-  enabled = true
-  weight  = 7
+# [[section]]
+#  id      = "testimonials"
+#  enabled = true
+#  weight  = 7
