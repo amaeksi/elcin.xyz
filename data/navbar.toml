@@ -2,13 +2,13 @@ title = "hugo-porto"
 # logo  = "img/logo.svg"
 
 [[menu]]
-  text        = "Home"
+  text        = "Anasayfa"
   description = "Evime hoşgeldiniz"
   link        = "/"
   target      = "_self"
 
 [[menu]]
-  text        = "Posts"
+  text        = "Blog Postları"
   description = "Son zamanlarda neler düşündüm?"
   link        = "/posts"
   target      = "_self"
