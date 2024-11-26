@@ -3,18 +3,18 @@ title = "hugo-porto"
 
 [[menu]]
   text        = "Home"
-  description = "Welcome to my personal website"
+  description = "Evime hoşgeldiniz"
   link        = "/"
   target      = "_self"
 
 [[menu]]
   text        = "Posts"
-  description = "Read my latest posts"
+  description = "Son zamanlarda neler düşündüm?"
   link        = "/posts"
   target      = "_self"
 
 [button]
-  enabled = true
+  enabled = false
   text    = "Get my CV"
   link    = "files/cv.pdf"
   target  = "_blank"
