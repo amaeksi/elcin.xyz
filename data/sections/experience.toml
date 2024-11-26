@@ -1,28 +1,16 @@
 # The list of companies
 [[company]]
-  name = "Company 1"
-  date = "2022 - present"
-  role = "Team Lead"
+  name = "Bioinformy"
+  date = "2023 - günümüz"
+  role = "Program Koordinatörü"
   text = [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.",
+    "Biyoinformtik ve yaşam bilimleri alanında profesyönel ve akademik eğitimlerin oluşturulmasını sağlıyorum.",
   ]
 
 [[company]]
-  name = "Company 2"
-  date = "2020 - 2022"
-  role = "Backend Developer"
+  name = "Eres Biyoteknoloji"
+  date = "2014 - günümüz"
+  role = "Genel Koordinatör"
   text = [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Cras elementum ultrices diam.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.",
-  ]
-
-[[company]]
-  name = "Company 3"
-  date = "2020"
-  role = "Software Engineer"
-  text = [
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.",
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam.",
+    "Herkes için biyoteknoloji sloganıyla Eres Biyoteknolojide, güncel teknolojilerin ulaşılabilir olması için çalışıyoruz. Biyoinformatik ve yaşam bilmleri alanında kişilere ve kurumlara eğitimler ve araştırma hizmetleri sağlıyoruz. "
   ]
