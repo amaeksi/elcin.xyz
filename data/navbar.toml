@@ -1,5 +1,5 @@
-title = "hugo-porto"
-# logo  = "img/logo.svg"
+title = "Elçin Ekşi"
+logo  = "img/magnifier.svg"
 
 [[menu]]
   text        = "Anasayfa"

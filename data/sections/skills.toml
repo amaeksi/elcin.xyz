@@ -2,29 +2,29 @@ title="Yetenekler"
 [[skill]]
   title = "Araştırma ve Veri Analizi"
   text  = "Geçmişten günümüze biyoçeşitlilik ve evrim konularında derinlemesine çalışıyorum. Arkeolojik buluntular ve fosil veriler üzerinde zamansal ve mekansal analizler yaparak bu alanlarda bilinmeyenleri arıyorum."
-  icon  = "bx-cloud"
+  icon  = "bx-dna"
 
 [[skill]]
   title = "Girişimcilik"
   text  = "Eres Biyoteknoloji ve Bioinformy’nin kurucusu olarak girişimcilik yolculuğumda bir iş kurma, takım oluşturma, finansal planlama ve iş geliştirme süreçlerinde kapsamlı deneyim kazandım. Yeni fikirleri hayata geçirme ve sürdürülebilir bir iş modeli oluşturma konularında yetkinim."
-  icon  = "bxl-docker"
+  icon  = "bx-rocket"
 
 [[skill]]
   title = "Eğitim ve İçerik Geliştirme"
   text  = "Yaşam bilimleri alanında ihtiyaç odaklı ve etkili eğitim programları geliştiriyorum. Öğrencilerin ve profesyonellerin ihtiyaçlarına yönelik özgün içerikler hazırlayarak bilginin kolayca aktarılmasını sağlıyorum."
-  icon  = "bxl-nodejs"
+  icon  = "bx-edit"
 
 [[skill]]
   title = "Sosyal Fayda Odaklı Çalışmak"
   text  = "Tüm projelerimde topluma fayda sağlamayı öncelikli bir hedef olarak görüyorum. Yürüttüğüm çalışmalarda, sosyal fayda sağlayan bileşenleri geliştirme konusundaki kabiliyetimle topluma olumlu katkılar sunmayı amaçlıyorum."
-  icon  = "bxl-nodejs"
+  icon  = "bx-book-heart"
 
 [[skill]]
   title = "Proje Yönetimi"
   text  = "Akademik, profesyonel veya gönüllü projelerde, geliştirme ve yönetim süreçlerini başarıyla yürütüyorum. Hedef odaklı bir yaklaşımla projelerin tüm aşamalarını planlama, uygulama ve sonuçlandırma konusunda deneyim sahibiyim."
-  icon  = "bxl-nodejs"
+  icon  = "bx-customize"
 
 [[skill]]
   title = "Bağlantılar Kurma ve İlham Verme"
   text  = "Farklı disiplinlerden insanlarla etkili iletişim kurarak anlamlı işbirlikleri oluşturabiliyorum. Bilimsel projelerden girişimcilik çalışmalarına kadar her alanda çevremdeki insanlara ilham verme ve onları motive etme yeteneğine sahibim. Keşfetme, öğrenme ve yaratma süreçlerinde insanlara rehberlik etmek benim için bir tutku."
-  icon  = "bxl-nodejs"
+  icon  = "bx-cool"
