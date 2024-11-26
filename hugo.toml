@@ -1,0 +1,10 @@
+title = "Elçin Ekşi"
+baseURL = "https://elcin.xyz"
+tags = ["portfolio", "web design", "blog"]
+languageCode = "en-US"
+canonifyURLS = true
+disqusShortname = "tomanistor"
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+[module]
+[[module.imports]]
+path = "github.com/hugo-porto/theme"
