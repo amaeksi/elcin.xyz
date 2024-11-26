@@ -23,3 +23,8 @@
   title = "Proje Yönetimi"
   text  = "Akademik, profesyonel veya gönüllü projelerde, geliştirme ve yönetim süreçlerini başarıyla yürütüyorum. Hedef odaklı bir yaklaşımla projelerin tüm aşamalarını planlama, uygulama ve sonuçlandırma konusunda deneyim sahibiyim."
   icon  = "bxl-nodejs"
+
+[[skill]]
+  title = "Bağlantılar Kurma ve İlham Verme"
+  text  = "Farklı disiplinlerden insanlarla etkili iletişim kurarak anlamlı işbirlikleri oluşturabiliyorum. Bilimsel projelerden girişimcilik çalışmalarına kadar her alanda çevremdeki insanlara ilham verme ve onları motive etme yeteneğine sahibim. Keşfetme, öğrenme ve yaratma süreçlerinde insanlara rehberlik etmek benim için bir tutku."
+  icon  = "bxl-nodejs"
