@@ -4,7 +4,7 @@ date: 2024-12-04T00:37:00.000Z
 image: /images/uploads/img_9726.jpg
 tags:
   - ekoloji
-draft: true
+draft: false
 ---
 Geçen gün Journal of ecology'de 2014 yılında yayınlanan "Identification of 100 fundamental ecological questions" adlı makaleye denk geldim. Denk geliş o denk geliş oldu. Soruları okudukça ne kadar da günlük hayatımdan sorular var burada diye kendi kenime söylendim. Baktım hevesimi alamıyorum ilgimi çeken soruları listeledim yetmedi bu sorulara dair aklıma gelen notları düştüm. 
 
